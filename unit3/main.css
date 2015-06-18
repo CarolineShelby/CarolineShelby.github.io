@@ -1,8 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
+@import url(http://fonts.googleapis.com/css?family=Bree+Serif);
 body {background-color:#EBF4FA}
-body {color:#b09cdb}
-nav {font-family:'Arial'; text-align: center;}
-h2{font-family:'Papyrus'; line-height:50%; text text-align: right; font-size: 155%}
-p {text-align: justify; font-size: 125%}
-nav {color:#789dca; text-align: center; font-size: 200%}
+h2{ color:#C09cdb; font-family:'Papyrus', sans-serif; line-height:.25em; text-align: left; font-size: 20px}
+nav {color:#789DCA; font-family: 'Bree Serif', serif; text-align: center; line-height: 2em; font-size: 60px}
+p {color:#C09cdb; font-family: 'Roboto Slab', serif; text-align: justify; font-size: 16px; width: 560; margin-left: auto; margin-right: auto; line-height: 1.6em}
 #slideshow {display: block; margin-left: auto; margin-right: auto}
-#contact {color:#b09cdb; font-size: 100%}
+#contact {color:#c09cdb; font-size: 16px}
